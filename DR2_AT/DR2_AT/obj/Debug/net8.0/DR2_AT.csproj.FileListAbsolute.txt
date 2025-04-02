@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\DR2_AT\bin\Debug\net8.0\DR2_AT.exe
+C:\Users\mateu\source\repos\DR2_AT\bin\Debug\net8.0\DR2_AT.deps.json
+C:\Users\mateu\source\repos\DR2_AT\bin\Debug\net8.0\DR2_AT.runtimeconfig.json
+C:\Users\mateu\source\repos\DR2_AT\bin\Debug\net8.0\DR2_AT.dll
+C:\Users\mateu\source\repos\DR2_AT\bin\Debug\net8.0\DR2_AT.pdb
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.AssemblyInfo.cs
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.dll
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\refint\DR2_AT.dll
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.pdb
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\DR2_AT.genruntimeconfig.cache
+C:\Users\mateu\source\repos\DR2_AT\obj\Debug\net8.0\ref\DR2_AT.dll

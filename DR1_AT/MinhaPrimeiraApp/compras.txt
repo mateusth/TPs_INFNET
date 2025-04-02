@@ -1,0 +1,3 @@
+Produto: agua. Quantidade: 5. Preço: R$1.5
+Produto: refrigerante. Quantidade: 4. Preço: R$3.33
+Produto: pastel. Quantidade: 9. Preço: R$7.99
